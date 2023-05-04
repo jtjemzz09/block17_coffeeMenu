@@ -54,5 +54,5 @@ const coffeeMenu = [
         seasonal: true,
     }
 ]
-
+//export the coffeeMenu
 module.exports = coffeeMenu;

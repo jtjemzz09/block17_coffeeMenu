@@ -1,3 +1,4 @@
+// Require the coffee_data module.
 const coffeeMenu = require ('./coffee_data');
 
 console.log (coffeeMenu);
