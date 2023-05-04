@@ -1,5 +1,7 @@
 const coffeeMenu = require ('./coffee_data');
 
+console.log (coffeeMenu);
+
 //Print an array of all the drinks on the menu.
 
 console.log("All drinks on the menu:");
